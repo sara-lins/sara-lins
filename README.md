@@ -3,11 +3,11 @@
 ✨ Seja bem vindo ao meu perfil do Github! ✨
 
 - ✔️ Developer Back-end
-- ✔️ Estudo Java, SQL SERVER, Power BI, GIT
-- ✔️ Sou formada em Análise de Sistemas
+- ✔️ Java, SQL SERVER, Power BI, GIT
+- ✔️ Formada em Análise de Sistemas
 - ✔️ Pós graduanda - Engenharia de software
 - ✔️ Gosto de desafios
-- ✔️ Quero mostrar que nasci para desenvolvimento de software 🔥
+- ✔️ "Meu filho, eu sou desenvolvedora" 🔥
 ##
 
 <div align=left">
