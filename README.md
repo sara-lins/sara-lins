@@ -2,10 +2,9 @@
 
 ✨ Seja bem vindo ao meu perfil do Github! ✨
 
-- ✔️ Developer Back-end
-- ✔️ Java, SQL SERVER, Power BI, GIT
+- ✔️ Full-Stack Development Student
+- ✔️ HTML, CSS, JAVASCRIPT
 - ✔️ Formada em Análise de Sistemas
-- ✔️ Pós graduanda - Engenharia de software
 - ✔️ Gosto de desafios
 - ✔️ "Meu filho, eu sou desenvolvedora" 🔥
 ##
