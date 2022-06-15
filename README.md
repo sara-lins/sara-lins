@@ -6,8 +6,7 @@
 - ✔️ HTML, CSS, JAVASCRIPT
 - ✔️ Estudo JAVA nas horas vagas
 - ✔️ Formada em Análise de Sistemas
-- ✔️ Gosto de desafios
-- ✔️ "Meu filho, eu sou desenvolvedora" 🔥
+- ✔️ Gosto de desafios🔥
 ##
 
 <div align=left">
