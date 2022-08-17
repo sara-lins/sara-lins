@@ -3,8 +3,7 @@
 ✨ Seja bem vindo ao meu perfil do Github! ✨
 
 - ✔️ Full-Stack Development Student
-- ✔️ HTML, CSS, JAVASCRIPT
-- ✔️ Estudo JAVA nas horas vagas
+- ✔️ HTML, CSS, JAVASCRIPT, REACT, STYLED-COMPONENTS, AXIOS, POO
 - ✔️ Formada em Análise de Sistemas
 - ✔️ Gosto de desafios🔥
 ##
