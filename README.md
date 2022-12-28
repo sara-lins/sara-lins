@@ -2,8 +2,8 @@
 
 ✨ Seja bem vindo ao meu perfil do Github! ✨
 
-- ✔️ Full-Stack Development Student
-- ✔️ HTML, CSS, JAVASCRIPT, REACT, STYLED-COMPONENTS, AXIOS, POO
+- ✔️ Developer FullStack
+- ✔️ HTML, CSS, JAVASCRIPT, REACT, TYPESCRIPT, NODEJS, EXPRESS, PRISMA, PYTHON, DJANGO... ETC
 - ✔️ Formada em Análise de Sistemas
 - ✔️ Gosto de desafios🔥
 ##
@@ -16,6 +16,7 @@
   ##
   
   <div style="display: inline_block"><br>
+  <img align="center" alt="Sara-html" src="https://www.svgrepo.com/show/373669/html.svg" />
   <img align="center" alt="Sara-Java" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original-wordmark.svg" />
   <img align="center" alt="Sara-git" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" />
   <img align="center" alt="Sara-SQLSERVER" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/microsoftsqlserver/microsoftsqlserver-plain-wordmark.svg" />
