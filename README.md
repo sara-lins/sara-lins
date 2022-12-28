@@ -2,7 +2,7 @@
 
 ✨ Seja bem vindo ao meu perfil do Github! ✨
 
-- ✔️ Developer FullStack
+- ✔️ FullStack Developer
 - ✔️ HTML, CSS, JAVASCRIPT, REACT, TYPESCRIPT, NODEJS, EXPRESS, PRISMA, PYTHON, DJANGO... ETC
 - ✔️ Formada em Análise de Sistemas
 - ✔️ Gosto de desafios🔥
