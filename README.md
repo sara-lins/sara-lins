@@ -1,9 +1,9 @@
 ### Olá, me chamo Sara Lins...
 
-✨ Seja bem vindo ao meu perfil do Github! ✨
+✨ Seja bem vindo (a) ao meu perfil do Github! ✨
 
-- ✔️ FullStack Developer
-- ✔️ HTML, CSS, JAVASCRIPT, REACT, TYPESCRIPT, NODEJS, EXPRESS, PRISMA, PYTHON, DJANGO... ETC
+- ✔️ Software Engineer
+- ✔️ JAVASCRIPT VANILLA, TYPESCRIPT, REACT, NODEJS, EXPRESS, PRISMA, PYTHON, DJANGO...
 - ✔️ Formada em Análise de Sistemas
 - ✔️ Gosto de desafios🔥
 ##
