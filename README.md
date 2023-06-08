@@ -5,7 +5,8 @@
 - ✔️ Software Engineer
 - ✔️ JAVASCRIPT VANILLA, TYPESCRIPT, REACT, NODEJS, EXPRESS, PRISMA, PYTHON, DJANGO...
 - ✔️ Formada em Análise de Sistemas
-- ✔️ Gosto de desafios🔥
+- ✔️ Desenvolvedora Full-Stack
+- ✔️ Pós em Arquitetura de Software
 ##
 
 <div align=left">
