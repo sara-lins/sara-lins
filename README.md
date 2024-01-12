@@ -2,11 +2,9 @@
 
 ✨ Seja bem vindo (a) ao meu perfil do Github! ✨
 
-- ✔️ Software Engineer
-- ✔️ JAVASCRIPT VANILLA, TYPESCRIPT, REACT, NODEJS, EXPRESS, PRISMA, PYTHON, DJANGO...
+- ✔️ FullStack Developer
+- ✔️ JAVASCRIPT VANILLA, TYPESCRIPT, ELIXIR, PYTHON, REACT, NEXT, NODEJS, EXPRESS, PRISMA, DJANGO, POSTGRESQL, DOCKER...
 - ✔️ Formada em Análise de Sistemas
-- ✔️ Desenvolvedora Full-Stack
-- ✔️ Pós em Arquitetura de Software
 ##
 
 <div align=left">
