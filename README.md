@@ -2,7 +2,7 @@
 
 ✨ Seja bem vindo (a) ao meu perfil do Github! ✨
 
-- ✔️ FullStack Developer
+- ✔️ Full Stack Developer
 - ✔️ JAVASCRIPT VANILLA, TYPESCRIPT, ELIXIR, PYTHON, REACT, NEXT, NODEJS, EXPRESS, PRISMA, DJANGO, POSTGRESQL, DOCKER...
 - ✔️ Formada em Análise de Sistemas
 ##
